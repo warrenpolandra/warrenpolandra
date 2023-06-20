@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an enthusiastic informatics engineering college student. I have participated in various volunteering events and organization. I am also Interested in new things and looking forward to work together in a team to build new projects. I am Certified in intermediate Android developer with Jetpack Compose and Kotlin programming.
+I am an enthusiastic informatics engineering college student. I have participated in various volunteering events and organization. I am also Interested in new things and looking forward to work together in a team to build new projects. Certified in intermediate Android developer with Jetpack Compose and Kotlin programming.
 
 
 ## 🌐 Socials:

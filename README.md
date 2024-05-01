@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final year informatics engineering college student! I have participated in various volunteering events and organization. I am also Interested in new things and looking forward to work together in a team to build new projects. Certified in intermediate Android developer with Jetpack Compose and Kotlin programming.
+I am a final year informatics engineering college student! I have participated in various volunteering events and organization. I am also Interested in new things and looking forward to work together in a team to build new projects. Certified in expert Android developer with Jetpack Compose and intermediate Front-End developer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/warren_polandra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/warren-gerald-polandra-a21b07206) 
